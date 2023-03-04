@@ -1,0 +1,12 @@
+INSERT INTO Limba VALUES    (1, 'romanian'),
+                            (2, 'english'),
+                            (3, 'france'),
+                            (4, 'russian'),
+                            (5, 'german'),
+                            (6, 'chinese'),
+                            (7, 'italian'),
+                            (8, 'icelandic'),
+                            (9, 'norwegian'),
+							(10, 'hungarian'),
+							(11, 'greek'),
+							(12, 'japanese');
